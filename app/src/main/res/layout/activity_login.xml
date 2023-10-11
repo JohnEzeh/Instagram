@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="10dp"
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:src="@drawable/instagram"/>
+
+    <EditText
+        android:id="@+id/emaillog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/editext_background"
+        android:hint="email"
+        android:fontFamily="serif"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="15dp"
+        android:padding="10dp"/>
+
+    <EditText
+        android:id="@+id/passwordlog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/editext_background"
+        android:hint="password"
+        android:fontFamily="serif"
+        android:inputType="textPassword"
+        android:layout_marginTop="15dp"
+        android:padding="10dp"/>
+
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Log in"
+        android:fontFamily="serif"
+        android:textColor="#064FDF"
+        android:background="@android:color/transparent"
+        android:textAllCaps="false"/>
+
+        <TextView
+            android:id="@+id/txt_signup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="14dp"
+            android:gravity="center"
+            android:fontFamily="serif"
+            android:textStyle="bold"
+            android:text="don't have account? signup"/>
+
+</LinearLayout>

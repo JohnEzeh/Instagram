@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="12dp"
+    android:orientation="vertical"
+    tools:context=".StartActivity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:padding="10dp"
+        android:src="@drawable/instagram"/>
+
+    <Button
+        android:id="@+id/loginbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="log in"
+        android:layout_marginTop="15dp"
+        android:textColor="#0000ff"
+        android:background="@android:color/transparent"/>
+
+    <Button
+        android:id="@+id/registerbtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="register"
+        android:padding="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#0000ff"
+        android:background="@android:color/transparent"/>
+
+</LinearLayout>

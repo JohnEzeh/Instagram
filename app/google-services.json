@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "259645447989",
+    "firebase_url": "https://bedrock-d2873-default-rtdb.firebaseio.com",
+    "project_id": "bedrock-d2873",
+    "storage_bucket": "bedrock-d2873.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259645447989:android:b37917dcf9e877890f367c",
+        "android_client_info": {
+          "package_name": "com.example.blogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259645447989-m7abfs9puesfpsiek68rgiv77jt8de94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG6Y7VDzg762Ggho2yFfDtboCqwKC-qNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259645447989-m7abfs9puesfpsiek68rgiv77jt8de94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259645447989:android:4931a55e05048d3c0f367c",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259645447989-m7abfs9puesfpsiek68rgiv77jt8de94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG6Y7VDzg762Ggho2yFfDtboCqwKC-qNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259645447989-m7abfs9puesfpsiek68rgiv77jt8de94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259645447989:android:3cf29f30258f9f880f367c",
+        "android_client_info": {
+          "package_name": "com.example.photogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259645447989-m7abfs9puesfpsiek68rgiv77jt8de94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG6Y7VDzg762Ggho2yFfDtboCqwKC-qNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259645447989-m7abfs9puesfpsiek68rgiv77jt8de94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
